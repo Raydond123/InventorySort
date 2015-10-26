@@ -1,0 +1,6 @@
+name: InventorySort
+author: Ray
+main: me.ray.invsort.InvSort
+version: 1.0
+commands:
+  sortinv:
